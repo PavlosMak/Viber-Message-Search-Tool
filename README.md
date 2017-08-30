@@ -1,2 +1,4 @@
 # Viber-Message-Search-Tool
-A search tool for your viber chats, so that you can find specific messages with ease
+A search tool for your viber chats, so that you can find specific messages with ease.
+
+For the program to function correctly you will have to put it in a file along with the folder containing the backup chat files. To get that folder follow the instructions on how to create a backup for your Viber Chats and email to yourself found here http://bit.ly/2x2nXPl. The backup folder will be named "Viber messages" and will contain CSV files (unless the developers of Viber change those properties with a future update) for all of your chats that the program will read, the format of those files will probably be like the Friend - messages.CSV file that you can find here, although I have encountered some cases where the "=" is not used, the scripts functions properly for those cases too. 
